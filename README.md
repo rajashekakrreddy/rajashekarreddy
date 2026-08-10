@@ -48,42 +48,42 @@ I enjoy learning new technologies, building practical projects, solving technica
 
 ### Microsoft Azure
 
-**Azure Resource Groups**<br/>
-**Azure Virtual Networks**<br/>
-**Azure SQL Database**<br/>
-**Azure Service Bus**<br/>
-**Azure Resource Manager**<br/>
-**Private Endpoints**<br/>
-**Cloud Networking**<br/>
-**Identity & Access Management**<br/>
-**Monitoring & Operations**<br/>
+  **Azure Resource Groups**<br/>
+  **Azure Virtual Networks**<br/>
+  **Azure SQL Database**<br/>
+  **Azure Service Bus**<br/>
+  **Azure Resource Manager**<br/>
+  **Private Endpoints**<br/>
+  **Cloud Networking**<br/>
+  **Identity & Access Management**<br/>
+  **Monitoring & Operations**<br/>
 
 ### Infrastructure as Code
 
-**Terraform**<br/>
-**AzureRM Provider**<br/>
-**Terraform Variables**<br/>
-**Terraform Outputs**<br/>
-**Terraform Modules**<br/>
-**Terraform State**<br/>
-**Remote State**<br/>
-**Azure Infrastructure Automation**<br/>
+  **Terraform**<br/>
+  **AzureRM Provider**<br/>
+  **Terraform Variables**<br/>
+  **Terraform Outputs**<br/>
+  **Terraform Modules**<br/>
+  **Terraform State**<br/>
+  **Remote State**<br/>
+  **Azure Infrastructure Automation**<br/>
 
 ### Containers
 
-**Docker**<br/>
-**Docker Images**<br/>
-**Docker Containers**<br/>
-**Docker Compose**<br/>
-**Azure Container Registry**<br/>
-**Kubernetes**<br/>
-**Kubernetes Deployments**<br/>
-**Kubernetes Services**<br/>
-**Ingress**<br/>
-**ConfigMaps**<br/>
-**Secrets**<br/>
-**Helm**<br/>
-**Azure Kubernetes Service (AKS)**<br/>
+  **Docker**<br/>
+  **Docker Images**<br/>
+  **Docker Containers**<br/>
+  **Docker Compose**<br/>
+  **Azure Container Registry**<br/>
+  **Kubernetes**<br/>
+  **Kubernetes Deployments**<br/>
+  **Kubernetes Services**<br/>
+  **Ingress**<br/>
+  **ConfigMaps**<br/>
+  **Secrets**<br/>
+  **Helm**<br/>
+  **Azure Kubernetes Service (AKS)** <br/>
 
 ---
 
@@ -180,193 +180,192 @@ Infrastructure-as-Code projects using **Terraform and Microsoft Azure**.<br/>
 
 ### Areas of Practice
 
-**Resource Groups**<br/>
-**Virtual Networks**<br/>
-**Subnets**<br/>
-**Network Security**<br/>
-**Azure Resources**<br/>
-**Private Endpoints**<br/>
-**Terraform Modules**<br/>
-**Terraform State**<br/>
-**Infrastructure Automation**<br/>
+  **Resource Groups**<br/>
+  **Virtual Networks**<br/>
+  **Subnets**<br/>
+  **Network Security**<br/>
+  **Azure Resources**<br/>
+  **Private Endpoints**<br/>
+  **Terraform Modules**<br/>
+  **Terraform State**<br/>
+  **Infrastructure Automation**<br/>
 
 ---
 
-# 🏗️ Azure Cloud Engineer 
+# Azure Cloud Engineer 
 
 I'm developing my Azure knowledge across the following major areas:<br/>
 
-### 1. ☁️ Azure Fundamentals
+### 1.Azure Fundamentals ☁️
 
-**Subscriptions**<br/>
-**Resource Groups**<br/>
-**Regions & Availability Zones**<br/>
-**Azure Portal**<br/>
-**Azure CLI**<br/>
-**Azure Resource Manager**<br/>
-**Azure Pricing & Cost Management**<br/>
-**Azure Policy**<br/>
-**Resource Tags**<br/>
-**Resource Locks**<br/>
+  **Subscriptions**<br/>
+  **Resource Groups**<br/>
+  **Regions & Availability Zones**<br/>
+  **Azure Portal**<br/>
+  **Azure CLI**<br/>
+  **Azure Resource Manager**<br/>
+  **Azure Pricing & Cost Management**<br/>
+  **Azure Policy**<br/>
+  **Resource Tags**<br/>
+  **Resource Locks**<br/>
 
-### 2. 💻 Compute
+### 2.Compute 💻
 
-**Virtual Machines**<br/>
-**VM Scale Sets**<br/>
-**App Service**<br/>
-**Azure Functions**<br/>
-**Container Instances**<br/>
-**Azure Container Apps**<br/>
-**Azure Kubernetes Service (AKS)**<br/>
-**Autoscaling**<br/>
-**High Availability**<br/>
+  **Virtual Machines**<br/>
+  **VM Scale Sets**<br/>
+  **App Service**<br/>
+  **Azure Functions**<br/>
+  **Container Instances**<br/>
+  **Azure Container Apps**<br/>
+  **Azure Kubernetes Service (AKS)** <br/>
+  **Autoscaling**<br/>
+  **High Availability**<br/>
 
-### 3. 🌐 Networking 
+### 3.Networking 🌐
 
-**Virtual Networks**<br/>
-**Subnets**<br/>
-**Network Security Groups**<br/>
-**Route Tables**<br/>
-**Public IP**<br/>
-**Load Balancer**<br/>
-**Application Gateway**<br/>
-**Azure Front Door**<br/>
-**Azure Firewall**<br/>
-**VPN Gateway**<br/>
-**ExpressRoute**<br/>
-**Private Endpoint**<br/>
-**Private Link**<br/>
-**Azure DNS**<br/>
-**VNet Peering**<br/>
-**Network Watcher**<br/>
+  **Virtual Networks**<br/>
+  **Subnets**<br/>
+  **Network Security Groups**<br/>
+  **Route Tables**<br/>
+  **Public IP**<br/>
+  **Load Balancer**<br/>
+  **Application Gateway**<br/>
+  **Azure Front Door**<br/>
+  **Azure Firewall**<br/>
+  **VPN Gateway**<br/>
+  **ExpressRoute**<br/>
+  **Private Endpoint**<br/>
+  **Private Link**<br/>
+  **Azure DNS**<br/>
+  **VNet Peering**<br/>
+  **Network Watcher**<br/>
 
-### 4. 💾 Storage
+### 4.Storage 💾
 
-**Storage Accounts**<br/>
-**Blob Storage**<br/>
-**Azure Files**<br/>
-**Queue Storage**<br/>
-**Table Storage**<br/>
-**Managed Disks**<br/>
-**Storage Redundancy**<br/>
-**SAS**<br/>
-**Lifecycle Management**<br/>
-**Storage Security**<br/>
-**Private Endpoints**<br/>
-**Backup & Data Protection**<br/>
+  **Storage Accounts**<br/>
+  **Blob Storage**<br/>
+  **Azure Files**<br/>
+  **Queue Storage**<br/>
+  **Table Storage**<br/>
+  **Managed Disks**<br/>
+  **Storage Redundancy**<br/>
+  **SAS**<br/>
+  **Lifecycle Management**<br/>
+  **Storage Security**<br/>
+  **Private Endpoints**<br/>
+  **Backup & Data Protection**<br/>
 
-### 5. 🗄️ Databases
+### 5.Databases 🗄️
 
-**Azure SQL Database**<br/>
-**Azure SQL Managed Instance**<br/>
-**SQL Server on Azure VM**<br/>
-**Azure Cosmos DB**<br/>
-**PostgreSQL**<br/>
-**MySQL**<br/>
-**Database Security**<br/>
-**Private Endpoints**<br/>
-**Backup & Recovery**<br/>
-**High Availability**<br/>
+  **Azure SQL Database**<br/>
+  **Azure SQL Managed Instance**<br/>
+  **SQL Server on Azure VM**<br/>
+  **Azure Cosmos DB**<br/>
+  **PostgreSQL**<br/>
+  **MySQL**<br/>
+  **Database Security**<br/>
+  **Private Endpoints**<br/>
+  **Backup & Recovery**<br/>
+  **High Availability**<br/>
 
-### 6. 📨 Messaging & Integration 
+### 6.Messaging & Integration 📨 
 
-**Azure Service Bus**<br/>
-**Queues**<br/>
-**Topics**<br/>
-**Subscriptions**<br/>
-**Dead-Letter Queues**<br/>
-**Event Grid**<br/>
-**Event Hubs**<br/>
-**Logic Apps**<br/>
-**Azure Functions**<br/>
-**API Management**<br/>
-**Event-Driven Architecture**<br/>
+  **Azure Service Bus**<br/>
+  **Queues**<br/>
+  **Topics**<br/>
+  **Subscriptions**<br/>
+  **Dead-Letter Queues**<br/>
+  **Event Grid**<br/>
+  **Event Hubs**<br/>
+  **Logic Apps**<br/>
+  **Azure Functions**<br/>
+  **API Management**<br/>
+  **Event-Driven Architecture**<br/>
 
-### 7. 🔐 Identity & Security
+### 7.Identity & Security 🔐
 
-**Microsoft Entra ID**<br/>
-**Users & Groups**<br/>
-**Service Principals**<br/>
-**Managed Identity**<br/>
-**RBAC**<br/>
-**Conditional Access**<br/>
-**Azure Key Vault**<br/>
-**Microsoft Defender for Cloud**<br/>
-**Azure Firewall**<br/>
-**Security Monitoring**<br/>
+  **Microsoft Entra ID**<br/>
+  **Users & Groups**<br/>
+  **Service Principals**<br/>
+  **Managed Identity**<br/>
+  **RBAC**<br/>
+  **Conditional Access**<br/>
+  **Azure Key Vault**<br/>
+  **Microsoft Defender for Cloud**<br/>
+  **Azure Firewall**<br/>
+  **Security Monitoring**<br/>
 
-### 8. 🏗️ Infrastructure as Code 
+### 8.Infrastructure as Code 
 
-**Terraform**<br/>
-**AzureRM Provider**<br/>
-**Variables**<br/>
-**Outputs**<br/>
-**Data Sources**<br/>
-**Modules**<br/>
-**State Management**<br/>
-**Remote State**<br/>
-**Terraform Workspaces**<br/>
-**CI/CD + Terraform**<br/>
-**Azure Infrastructure Automation**<br/>
+  **Terraform**<br/>
+  **AzureRM Provider**<br/>
+  **Variables**<br/>
+  **Outputs**<br/>
+  **Data Sources**<br/>
+  **Modules**<br/>
+  **State Management**<br/>
+  **Remote State**<br/>
+  **Terraform Workspaces**<br/>
+  **CI/CD + Terraform**<br/>
+  **Azure Infrastructure Automation**<br/>
 
-### 9. 🐳 Containers & Kubernetes
+### 9.Containers & Kubernetes 🐳
 
-**Docker**<br/>
-**Azure Container Registry**<br/>
-**Kubernetes**<br/>
-**AKS**<br/>
-**Pods**<br/>
-**Deployments**<br/>
-**Services**<br/>
-**Ingress**<br/>
-**ConfigMaps**<br/>
-**Secrets**<br/>
-**Helm**<br/>
-**Kubernetes Networking**<br/>
-**AKS Scaling**<br/>
+  **Docker**<br/>
+  **Azure Container Registry**<br/>
+  **Kubernetes**<br/>
+  **AKS**<br/>
+  **Pods**<br/>
+  **Deployments**<br/>
+  **Services**<br/>
+  **Ingress**<br/>
+  **ConfigMaps**<br/>
+  **Secrets**<br/>
+  **Helm**<br/>
+  **Kubernetes Networking**<br/>
+  **AKS Scaling**<br/>
 
 ### 10.DevOps & CI/CD 🔄
 
-    **Git**<br/>
-    **GitHub**<br/>
-    **GitHub Actions**<br/>
-    **Azure DevOps**<br/>
-    **Azure Pipelines**<br/>
-    **CI/CD**<br/>
-    **Terraform Automation**<br/>
-    **Docker Image Pipelines**<br/>
-    **Deployment Strategies**<br/>
-    **Infrastructure Pipelines**<br/>
+   **Git**<br/>
+   **GitHub**<br/>
+   **GitHub Actions**<br/>
+   **Azure DevOps**<br/>
+   **Azure Pipelines**<br/>
+   **CI/CD**<br/>
+   **Terraform Automation**<br/>
+   **Docker Image Pipelines**<br/>
+   **Deployment Strategies**<br/>
+   **Infrastructure Pipelines**<br/>
 
 ### 11.Monitoring & Operations 📊
 
-    **Azure Monitor**<br/>
-    **Log Analytics**<br/>
-    **Application Insights**<br/>
-    **Metrics**<br/>
-    **Alerts**<br/>
-    **Activity Logs**<br/>
-    **Diagnostic Settings**<br/>
-    **Network Watcher**<br/>
-    **Service Health**<br/>
-    **Resource Health**<br/>
-    **SQL**<br/>
-    **Troubleshooting**<br/>
+   **Azure Monitor**<br/>
+   **Log Analytics**<br/>
+   **Application Insights**<br/>
+   **Metrics**<br/>
+   **Alerts**<br/>
+   **Activity Logs**<br/>
+   **Diagnostic Settings**<br/>
+   **Network Watcher**<br/>
+   **Service Health**<br/>
+   **Resource Health**<br/>
+   **Troubleshooting**<br/>
 
 ### 12.Cloud Architecture 🏛️
 
-    **High Availability**<br/>
-    **Scalability**<br/>
-    **Reliability**<br/>
-    **Security**<br/>
-    **Performance**<br/>
-    **Cost Optimization**<br/>
-    **Disaster Recovery**<br/>
-    **Backup & Recovery**<br/>
-    **Fault Tolerance**<br/>
-    **Network Segmentation**<br/>
-    **Private Networking**<br/>
-    **Cloud Architecture Design**<br/>
+   **High Availability**<br/>
+   **Scalability**<br/>
+   **Reliability**<br/>
+   **Security**<br/>
+   **Performance**<br/>
+   **Cost Optimization**<br/>
+   **Disaster Recovery**<br/>
+   **Backup & Recovery**<br/>
+   **Fault Tolerance**<br/>
+   **Network Segmentation**<br/>
+   **Private Networking**<br/>
+   **Cloud Architecture Design**<br/>
 
 ---
 
