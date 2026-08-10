@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a B.Tech graduate in Electronics and Communica
 
 I enjoy learning new technologies, building practical projects, and documenting my progress as I develop my technical skills.
 
-👨‍💻 About Me
+👨‍💻 About Me <br/>
 🎓 B.Tech in Electronics and Communication Engineering
 💻 Currently focusing on Web Development and IT
 🌐 Building a strong foundation in HTML, CSS, and JavaScript
