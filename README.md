@@ -221,7 +221,7 @@ I'm developing my Azure knowledge across the following major areas:<br/>
 **Autoscaling**<br/>
 **High Availability**<br/>
 
-### 3. 🌐 Networking ⭐
+### 3. 🌐 Networking 
 
 **Virtual Networks**<br/>
 **Subnets**<br/>
@@ -268,7 +268,7 @@ I'm developing my Azure knowledge across the following major areas:<br/>
 **Backup & Recovery**<br/>
 **High Availability**<br/>
 
-### 6. 📨 Messaging & Integration ⭐
+### 6. 📨 Messaging & Integration 
 
 **Azure Service Bus**<br/>
 **Queues**<br/>
@@ -295,7 +295,7 @@ I'm developing my Azure knowledge across the following major areas:<br/>
 **Azure Firewall**<br/>
 **Security Monitoring**<br/>
 
-### 8. 🏗️ Infrastructure as Code ⭐
+### 8. 🏗️ Infrastructure as Code 
 
 **Terraform**<br/>
 **AzureRM Provider**<br/>
@@ -478,4 +478,4 @@ Feel free to explore my repositories and follow my learning journey.<br/>
 
 ### 🚀 Building skills today for opportunities tomorrow.
 
-⭐ **Thanks for visiting my GitHub profile!**
+ **Thanks for visiting my GitHub profile!**
