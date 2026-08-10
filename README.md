@@ -1,116 +1,419 @@
-# rajashekarreddy
+Absolutely. Here is the **complete professional README converted to `<br/>` format**, while keeping the Markdown headings and code blocks clean.
 
-Hi, I'm Rajashekar Reddy
-Aspiring Web Developer | Cloud Computing & DevOps Enthusiast
+# 👋 Hi, I'm Rajashekar Reddy
 
-Welcome to my GitHub profile! I'm a B.Tech graduate in Electronics and Communication Engineering currently transitioning into Web Development, Cloud Computing, and IT.
+### Aspiring Web Developer | Cloud Computing & DevOps Enthusiast
 
-I enjoy learning new technologies, building practical projects, and documenting my progress as I develop my technical skills.
+Welcome to my GitHub profile! I'm a **B.Tech graduate in Electronics and Communication Engineering** currently building my career in **Web Development, Cloud Computing, and IT**.<br/>
+I enjoy learning new technologies, building practical projects, solving technical problems, and documenting my learning journey through GitHub.<br/>
 
-👨‍💻 About Me <br/>
-🎓 B.Tech in Electronics and Communication Engineering
-💻 Currently focusing on Web Development and IT
-🌐 Building a strong foundation in HTML, CSS, and JavaScript
-☁️ Developing knowledge in Microsoft Azure and Cloud Computing
-🏗️ Learning Terraform for Infrastructure as Code
-🐳 Learning Docker and Kubernetes
-🐍 Improving my Python programming skills
-🗄️ Practicing SQL and database concepts
-💡 Interested in building practical, user-focused applications
-📚 Continuously learning and improving my technical skills
-🛠️ Technical Skills
-🌐 Web Development
+---
 
-<p> <img src="https://skillicons.dev/icons?i=html,css,js" /> </p>
+## 👨‍💻 About Me
 
-HTML5
-CSS3
-JavaScript
-Responsive Web Design
-Web Development Fundamentals
-☁️ Cloud & DevOps
+🎓 B.Tech in **Electronics and Communication Engineering**<br/>
+💻 Currently focusing on **Web Development and IT**<br/>
+🌐 Building a strong foundation in **HTML, CSS, and JavaScript**<br/>
+☁️ Developing practical knowledge of **Microsoft Azure**<br/>
+🏗️ Learning **Terraform** for Infrastructure as Code<br/>
+🐳 Learning **Docker and Kubernetes**<br/>
+🐍 Improving my **Python** programming skills<br/>
+🗄️ Practicing **SQL and database concepts**<br/>
+🔐 Exploring **Cloud Networking, Security, and Infrastructure**<br/>
+💡 Interested in building practical and user-focused applications<br/>
+📚 Continuously learning and improving my technical skills<br/>
 
-<p> <img src="https://skillicons.dev/icons?i=azure,terraform,docker,kubernetes" /> </p>
+---
 
-Microsoft Azure
-Azure SQL Database
-Azure Virtual Network
-Azure Service Bus
-Azure Resource Manager
-Terraform
-Docker
-Kubernetes
-Infrastructure as Code
-💻 Programming & Database
+# 🛠️ Technical Skills
 
-<p> <img src="https://skillicons.dev/icons?i=python" /> </p>
+## 🌐 Web Development
 
-Python
-SQL
-C Programming
-Database Fundamentals
-🔧 Tools
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML CSS JavaScript" />
+</p>
 
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
+**HTML5**<br/>
+**CSS3**<br/>
+**JavaScript**<br/>
+**Responsive Web Design**<br/>
+**Web Development Fundamentals**<br/>
 
-Git
-GitHub
-Visual Studio Code
-Command Line
-🚀 Featured Projects
-📋 Daily Routine & Productivity Planner
+---
 
-A web application designed to help users organize their daily routines, tasks, plans, and notes.
+## ☁️ Cloud & DevOps
 
-Technologies: HTML CSS JavaScript
+<p>
+<img src="https://skillicons.dev/icons?i=azure,terraform,docker,kubernetes" alt="Azure Terraform Docker Kubernetes" />
+</p>
 
-Planned Features:
+### Microsoft Azure
 
-Daily task management
-Routine tracking
-Notes and planning
-Task completion tracking
-Responsive design
-Future cloud integration
-🌐 Personal Portfolio Website
+**Azure Resource Groups**<br/>
+**Azure Virtual Networks**<br/>
+**Azure SQL Database**<br/>
+**Azure Service Bus**<br/>
+**Azure Resource Manager**<br/>
+**Private Endpoints**<br/>
+**Cloud Networking**<br/>
+**Identity & Access Management**<br/>
+**Monitoring & Operations**<br/>
 
-A professional portfolio website showcasing my:
+### Infrastructure as Code
 
-About Me
-Education
-Technical Skills
-Projects
-Learning Journey
-Contact Information
+**Terraform**<br/>
+**AzureRM Provider**<br/>
+**Terraform Variables**<br/>
+**Terraform Outputs**<br/>
+**Terraform Modules**<br/>
+**Terraform State**<br/>
+**Remote State**<br/>
+**Azure Infrastructure Automation**<br/>
 
-Technologies: HTML CSS JavaScript
+### Containers
 
-☁️ Azure Cloud Projects
+**Docker**<br/>
+**Docker Images**<br/>
+**Docker Containers**<br/>
+**Docker Compose**<br/>
+**Azure Container Registry**<br/>
+**Kubernetes**<br/>
+**Kubernetes Deployments**<br/>
+**Kubernetes Services**<br/>
+**Ingress**<br/>
+**ConfigMaps**<br/>
+**Secrets**<br/>
+**Helm**<br/>
+**Azure Kubernetes Service (AKS)**<br/>
 
-Hands-on projects focused on learning and implementing Microsoft Azure services.
+---
 
-Areas of Practice:
+## 💻 Programming & Database
 
-Azure Virtual Networks
-Azure SQL Database
-Azure Service Bus
-Azure Resource Manager
-Private Endpoints
-Cloud Networking
-🏗️ Terraform Azure Infrastructure
+<p>
+<img src="https://skillicons.dev/icons?i=python,c" alt="Python C" />
+</p>
 
-Infrastructure-as-Code projects using Terraform and Microsoft Azure.
+**Python**<br/>
+**C Programming**<br/>
+**SQL**<br/>
+**Database Fundamentals**<br/>
+**Query Writing**<br/>
+**Data Management**<br/>
 
-Areas of Practice:
+---
 
-Resource Groups
-Virtual Networks
-Subnets
-Network Security
-Azure Resources
-Private Endpoints
-Infrastructure Automation
-📚 Currently Learning
+## 🔧 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git GitHub VS Code" />
+</p>
+
+**Git**<br/>
+**GitHub**<br/>
+**Visual Studio Code**<br/>
+**Command Line**<br/>
+
+---
+
+# 🚀 Featured Projects
+
+## 📋 Daily Routine & Productivity Planner
+
+A web application designed to help users organize their **daily routines, tasks, plans, notes, and personal goals**.<br/>
+
+### Technologies
+
+`HTML` `CSS` `JavaScript`<br/>
+
+### Planned Features
+
+📅 Daily task management<br/>
+✅ Task completion tracking<br/>
+📝 Notes and planning<br/>
+🔄 Routine tracking<br/>
+📱 Responsive design<br/>
+☁️ Future cloud integration<br/>
+📊 Productivity insights<br/>
+
+---
+
+## 🌐 Personal Portfolio Website
+
+A professional portfolio website designed to showcase my:<br/>
+
+**About Me**<br/>
+**Education**<br/>
+**Technical Skills**<br/>
+**Projects**<br/>
+**Cloud Computing Journey**<br/>
+**Learning Progress**<br/>
+**Contact Information**<br/>
+
+### Technologies
+
+`HTML` `CSS` `JavaScript`<br/>
+
+---
+
+## ☁️ Azure Cloud Projects
+
+Hands-on projects focused on learning and implementing **Microsoft Azure cloud services**.<br/>
+
+### Areas of Practice
+
+**Azure Virtual Networks**<br/>
+**Subnets**<br/>
+**Network Security Groups**<br/>
+**Azure SQL Database**<br/>
+**Azure Service Bus**<br/>
+**Azure Resource Manager**<br/>
+**Private Endpoints**<br/>
+**Cloud Networking**<br/>
+**Identity & Access**<br/>
+**Monitoring**<br/>
+
+---
+
+## 🏗️ Terraform Azure Infrastructure
+
+Infrastructure-as-Code projects using **Terraform and Microsoft Azure**.<br/>
+
+### Areas of Practice
+
+**Resource Groups**<br/>
+**Virtual Networks**<br/>
+**Subnets**<br/>
+**Network Security**<br/>
+**Azure Resources**<br/>
+**Private Endpoints**<br/>
+**Terraform Modules**<br/>
+**Terraform State**<br/>
+**Infrastructure Automation**<br/>
+
+---
+
+# 🏗️ Azure Cloud Engineer Roadmap
+
+I'm developing my Azure knowledge across the following major areas:<br/>
+
+### 1. ☁️ Azure Fundamentals
+
+**Subscriptions**<br/>
+**Resource Groups**<br/>
+**Regions & Availability Zones**<br/>
+**Azure Portal**<br/>
+**Azure CLI**<br/>
+**Azure Resource Manager**<br/>
+**Azure Pricing & Cost Management**<br/>
+**Azure Policy**<br/>
+**Resource Tags**<br/>
+**Resource Locks**<br/>
+
+### 2. 💻 Compute
+
+**Virtual Machines**<br/>
+**VM Scale Sets**<br/>
+**App Service**<br/>
+**Azure Functions**<br/>
+**Container Instances**<br/>
+**Azure Container Apps**<br/>
+**Azure Kubernetes Service (AKS)**<br/>
+**Autoscaling**<br/>
+**High Availability**<br/>
+
+### 3. 🌐 Networking ⭐
+
+**Virtual Networks**<br/>
+**Subnets**<br/>
+**Network Security Groups**<br/>
+**Route Tables**<br/>
+**Public IP**<br/>
+**Load Balancer**<br/>
+**Application Gateway**<br/>
+**Azure Front Door**<br/>
+**Azure Firewall**<br/>
+**VPN Gateway**<br/>
+**ExpressRoute**<br/>
+**Private Endpoint**<br/>
+**Private Link**<br/>
+**Azure DNS**<br/>
+**VNet Peering**<br/>
+**Network Watcher**<br/>
+
+### 4. 💾 Storage
+
+**Storage Accounts**<br/>
+**Blob Storage**<br/>
+**Azure Files**<br/>
+**Queue Storage**<br/>
+**Table Storage**<br/>
+**Managed Disks**<br/>
+**Storage Redundancy**<br/>
+**SAS**<br/>
+**Lifecycle Management**<br/>
+**Storage Security**<br/>
+**Private Endpoints**<br/>
+**Backup & Data Protection**<br/>
+
+### 5. 🗄️ Databases
+
+**Azure SQL Database**<br/>
+**Azure SQL Managed Instance**<br/>
+**SQL Server on Azure VM**<br/>
+**Azure Cosmos DB**<br/>
+**PostgreSQL**<br/>
+**MySQL**<br/>
+**Database Security**<br/>
+**Private Endpoints**<br/>
+**Backup & Recovery**<br/>
+**High Availability**<br/>
+
+### 6. 📨 Messaging & Integration ⭐
+
+**Azure Service Bus**<br/>
+**Queues**<br/>
+**Topics**<br/>
+**Subscriptions**<br/>
+**Dead-Letter Queues**<br/>
+**Event Grid**<br/>
+**Event Hubs**<br/>
+**Logic Apps**<br/>
+**Azure Functions**<br/>
+**API Management**<br/>
+**Event-Driven Architecture**<br/>
+
+### 7. 🔐 Identity & Security
+
+**Microsoft Entra ID**<br/>
+**Users & Groups**<br/>
+**Service Principals**<br/>
+**Managed Identity**<br/>
+**RBAC**<br/>
+**Conditional Access**<br/>
+**Azure Key Vault**<br/>
+**Microsoft Defender for Cloud**<br/>
+**Azure Firewall**<br/>
+**Security Monitoring**<br/>
+
+### 8. 🏗️ Infrastructure as Code ⭐
+
+**Terraform**<br/>
+**AzureRM Provider**<br/>
+**Variables**<br/>
+**Outputs**<br/>
+**Data Sources**<br/>
+**Modules**<br/>
+**State Management**<br/>
+**Remote State**<br/>
+**Terraform Workspaces**<br/>
+**CI/CD + Terraform**<br/>
+**Azure Infrastructure Automation**<br/>
+
+### 9. 🐳 Containers & Kubernetes
+
+**Docker**<br/>
+**Azure Container Registry**<br/>
+**Kubernetes**<br/>
+**AKS**<br/>
+**Pods**<br/>
+**Deployments**<br/>
+**Services**<br/>
+**Ingress**<br/>
+**ConfigMaps**<br/>
+**Secrets**<br/>
+**Helm**<br/>
+**Kubernetes Networking**<br/>
+**AKS Scaling**<br/>
+
+### 10. 🔄 DevOps & CI/CD
+
+**Git**<br/>
+**GitHub**<br/>
+**GitHub Actions**<br/>
+**Azure DevOps**<br/>
+**Azure Pipelines**<br/>
+**CI/CD**<br/>
+**Terraform Automation**<br/>
+**Docker Image Pipelines**<br/>
+**Deployment Strategies**<br/>
+**Infrastructure Pipelines**<br/>
+
+### 11. 📊 Monitoring & Operations
+
+**Azure Monitor**<br/>
+**Log Analytics**<br/>
+**Application Insights**<br/>
+**Metrics**<br/>
+**Alerts**<br/>
+**Activity Logs**<br/>
+**Diagnostic Settings**<br/>
+**Network Watcher**<br/>
+**Service Health**<br/>
+**Resource Health**<br/>
+**KQL**<br/>
+**Troubleshooting**<br/>
+
+### 12. 🏛️ Cloud Architecture
+
+**High Availability**<br/>
+**Scalability**<br/>
+**Reliability**<br/>
+**Security**<br/>
+**Performance**<br/>
+**Cost Optimization**<br/>
+**Disaster Recovery**<br/>
+**Backup & Recovery**<br/>
+**Fault Tolerance**<br/>
+**Network Segmentation**<br/>
+**Private Networking**<br/>
+**Cloud Architecture Design**<br/>
+
+---
+
+# 🏛️ Example Azure Architecture
+
+```text
+                         Users
+                           │
+                           ▼
+                   Azure Front Door
+                           │
+                           ▼
+                  Application Gateway
+                           │
+                           ▼
+                    Web Application
+                           │
+                           ▼
+                       Azure VNet
+                           │
+              ┌────────────┴────────────┐
+              │                         │
+              ▼                         ▼
+       Private Endpoint          Azure Service Bus
+              │                         │
+              ▼                         ▼
+       Azure SQL Database        Background Worker
+              │
+              ▼
+       Azure Storage Account
+
+
+                 Monitoring Layer
+                       │
+                       ▼
+                 Azure Monitor
+                       │
+                       ▼
+                  Log Analytics
+```
+
+---
+
+# 📚 Currently Learning
+
+```text
 HTML + CSS
      ↓
 JavaScript
@@ -127,47 +430,53 @@ Docker
      ↓
 Kubernetes
      ↓
-Cloud & DevOps
-🎯 Current Goals
+DevOps & CI/CD
+     ↓
+Cloud Architecture
+```
 
-Strengthen HTML & CSS fundamentals
+---
 
-Learn JavaScript
+# 🎯 Current Goals
 
-Build responsive websites
+☐ Strengthen HTML & CSS fundamentals<br/>
+☐ Become proficient in JavaScript<br/>
+☐ Build responsive websites<br/>
+☐ Develop real-world web applications<br/>
+☐ Improve Python programming<br/>
+☐ Strengthen SQL skills<br/>
+☐ Build practical Azure projects<br/>
+☐ Improve Terraform skills<br/>
+☐ Learn Docker deeply<br/>
+☐ Learn Kubernetes and AKS<br/>
+☐ Learn CI/CD<br/>
+☐ Deploy applications to Azure<br/>
+☐ Build production-style cloud architectures<br/>
+☐ Improve cloud security knowledge<br/>
+☐ Contribute to open-source projects<br/>
 
-Develop real-world web applications
+---
 
-Improve Python programming
+# 📈 My Learning Philosophy
 
-Strengthen SQL skills
+### **Learn → Build → Deploy → Improve**
 
-Build Azure cloud projects
+I believe technical skills grow through a combination of **consistent learning, hands-on practice, real-world projects, and continuous improvement**.<br/>
 
-Improve Terraform skills
+My GitHub serves as a portfolio of my projects and a record of my journey from **learning fundamentals to building and deploying practical solutions**.<br/>
 
-Learn Docker
+---
 
-Learn Kubernetes
+# 🤝 Let's Connect
 
-Learn CI/CD
+I'm interested in connecting with professionals and developers working in:<br/>
 
-Deploy applications to the cloud
+**Web Development • Cloud Computing • Azure • DevOps • IT**<br/>
 
-Contribute to open-source projects
+Feel free to explore my repositories and follow my learning journey.<br/>
 
-📈 My Learning Philosophy
+---
 
-Learn → Build → Deploy → Improve
+### 🚀 Building skills today for opportunities tomorrow.
 
-I believe the best way to develop technical skills is by combining consistent learning with practical projects.
-
-My GitHub is where I document that journey.
-
-🤝 Let's Connect
-
-I'm always interested in connecting with people working in:
-
-Web Development • Cloud Computing • DevOps • Azure • IT
-
-Feel free to explore my repositories and follow my learning journey.
+⭐ **Thanks for visiting my GitHub profile!**
