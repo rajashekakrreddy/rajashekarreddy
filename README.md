@@ -193,7 +193,7 @@ Infrastructure-as-Code projects using **Terraform and Microsoft Azure**.<br/>
 
 ---
 
-# 🏗️ Azure Cloud Engineer Roadmap
+# 🏗️ Azure Cloud Engineer 
 
 I'm developing my Azure knowledge across the following major areas:<br/>
 
