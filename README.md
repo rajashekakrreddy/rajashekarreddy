@@ -325,52 +325,52 @@ I'm developing my Azure knowledge across the following major areas:<br/>
 **Kubernetes Networking**<br/>
 **AKS Scaling**<br/>
 
-### 10. 🔄 DevOps & CI/CD
+### 10.DevOps & CI/CD 🔄
 
-**Git**<br/>
-**GitHub**<br/>
-**GitHub Actions**<br/>
-**Azure DevOps**<br/>
-**Azure Pipelines**<br/>
-**CI/CD**<br/>
-**Terraform Automation**<br/>
-**Docker Image Pipelines**<br/>
-**Deployment Strategies**<br/>
-**Infrastructure Pipelines**<br/>
+    **Git**<br/>
+    **GitHub**<br/>
+    **GitHub Actions**<br/>
+    **Azure DevOps**<br/>
+    **Azure Pipelines**<br/>
+    **CI/CD**<br/>
+    **Terraform Automation**<br/>
+    **Docker Image Pipelines**<br/>
+    **Deployment Strategies**<br/>
+    **Infrastructure Pipelines**<br/>
 
-### 11. 📊 Monitoring & Operations
+### 11.Monitoring & Operations 📊
 
-**Azure Monitor**<br/>
-**Log Analytics**<br/>
-**Application Insights**<br/>
-**Metrics**<br/>
-**Alerts**<br/>
-**Activity Logs**<br/>
-**Diagnostic Settings**<br/>
-**Network Watcher**<br/>
-**Service Health**<br/>
-**Resource Health**<br/>
-**KQL**<br/>
-**Troubleshooting**<br/>
+    **Azure Monitor**<br/>
+    **Log Analytics**<br/>
+    **Application Insights**<br/>
+    **Metrics**<br/>
+    **Alerts**<br/>
+    **Activity Logs**<br/>
+    **Diagnostic Settings**<br/>
+    **Network Watcher**<br/>
+    **Service Health**<br/>
+    **Resource Health**<br/>
+    **SQL**<br/>
+    **Troubleshooting**<br/>
 
-### 12. 🏛️ Cloud Architecture
+### 12.Cloud Architecture 🏛️
 
-**High Availability**<br/>
-**Scalability**<br/>
-**Reliability**<br/>
-**Security**<br/>
-**Performance**<br/>
-**Cost Optimization**<br/>
-**Disaster Recovery**<br/>
-**Backup & Recovery**<br/>
-**Fault Tolerance**<br/>
-**Network Segmentation**<br/>
-**Private Networking**<br/>
-**Cloud Architecture Design**<br/>
+    **High Availability**<br/>
+    **Scalability**<br/>
+    **Reliability**<br/>
+    **Security**<br/>
+    **Performance**<br/>
+    **Cost Optimization**<br/>
+    **Disaster Recovery**<br/>
+    **Backup & Recovery**<br/>
+    **Fault Tolerance**<br/>
+    **Network Segmentation**<br/>
+    **Private Networking**<br/>
+    **Cloud Architecture Design**<br/>
 
 ---
 
-# 🏛️ Example Azure Architecture
+# Example Azure Architecture 🏛️
 
 ```text
                          Users
@@ -410,7 +410,7 @@ I'm developing my Azure knowledge across the following major areas:<br/>
 
 ---
 
-# 📚 Currently Learning
+# Currently Learning 📚
 
 ```text
 HTML + CSS
@@ -436,7 +436,7 @@ Cloud Architecture
 
 ---
 
-# 🎯 Current Goals
+# Current Goals 🎯
 
 ☐ Strengthen HTML & CSS fundamentals<br/>
 ☐ Become proficient in JavaScript<br/>
@@ -456,7 +456,7 @@ Cloud Architecture
 
 ---
 
-# 📈 My Learning Philosophy
+# My Learning Philosophy 📈
 
 ### **Learn → Build → Deploy → Improve**
 
@@ -466,7 +466,7 @@ My GitHub serves as a portfolio of my projects and a record of my journey from *
 
 ---
 
-# 🤝 Let's Connect
+# Let's Connect 🤝
 
 I'm interested in connecting with professionals and developers working in:<br/>
 
@@ -476,6 +476,6 @@ Feel free to explore my repositories and follow my learning journey.<br/>
 
 ---
 
-### 🚀 Building skills today for opportunities tomorrow.
+### Building skills today for opportunities tomorrow.
 
- **Thanks for visiting my GitHub profile!**
+  **Thanks for visiting my GitHub profile!**
