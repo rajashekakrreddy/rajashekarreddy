@@ -1,4 +1,3 @@
-Absolutely. Here is the **complete professional README converted to `<br/>` format**, while keeping the Markdown headings and code blocks clean.
 
 # 👋 Hi, I'm Rajashekar Reddy
 
